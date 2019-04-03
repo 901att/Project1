@@ -61,8 +61,8 @@ function random_Rgb(){
   return rgbColor;
 }
 
-/*When click "show another quote" buttom will trigger this function to create a random quote and it's source
-  or wait for 5 seconds it will renew itself with random background and buttom color. 
+/*When click "show another quote" buttom will trigger this function to create a random quote and it's source.
+  Or wait for 5 seconds it will renew itself with random background and buttom color. 
 */
 
 function printQuote(){
